@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nutrition Assistant
 
 Nutrition Assistant is a production-ready, industry-level wellness management platform built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). It provides a secure, role-based ecosystem for clients, dietitians, and platform administrators.
@@ -161,3 +162,6 @@ nutrition-assistant/
 - **Admin**: `admin@nutrition.com` / `admin123`
 - **Dietitian**: `dietitian1@nutrition.com` / `dietitian123`
 - **User (Client)**: `user1@nutrition.com` / `user123`
+=======
+# Nutrition-Assistant
+>>>>>>> d450f6869586c75ed019aa7b654d3e9b1497795c
