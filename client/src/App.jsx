@@ -10,6 +10,8 @@ import Sidebar from './components/Sidebar';
 import Footer from './components/Footer';
 import ProtectedRoute from './components/ProtectedRoute';
 
+
+
 // Public Pages
 import Landing from './pages/Landing';
 import About from './pages/About';
